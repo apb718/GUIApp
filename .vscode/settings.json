@@ -1,0 +1,17 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx.base.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx.controls.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx.fxml.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx.graphics.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx.media.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx.swing.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx.web.jar",
+		"/Users/alecbyrd/Desktop/GUIProject/lib/javafx-swt.ja"
+	]
+}
